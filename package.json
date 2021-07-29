@@ -1,0 +1,27 @@
+{
+  "name": "team-info-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gibsona475/team-info-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gibsona475/team-info-homework/issues"
+  },
+  "homepage": "https://github.com/gibsona475/team-info-homework#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
