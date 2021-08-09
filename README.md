@@ -1,4 +1,6 @@
 # team-info-homework
+https://www.loom.com/share/0d7dfd3b62f74e9e9e5c50b0cccd1992
+
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
