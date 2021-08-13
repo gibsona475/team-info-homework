@@ -1,0 +1,19 @@
+#body {
+background-color: lightgray;
+}
+
+#header {
+    text-align: center;
+    padding: 10%;
+}
+.container {
+    color: black;
+}
+
+.col {
+    border: ivory;
+    border-radius: 5%;
+    box-shadow: green;
+    border-style: solid;
+    padding: 2%;
+}
